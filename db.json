@@ -1,0 +1,63 @@
+{
+  "tutores": [
+    {
+      "id": "1",
+      "nome": "Ana Oliveira",
+      "telefone": "47999990001",
+      "cpfCnpj": "12345678900",
+      "email": "ana@example.com",
+      "dataNascimento": "15/05/1990",
+      "endereco": {
+        "rua": "Rua das Flores",
+        "numero": "123",
+        "bairro": "Centro",
+        "cidade": "Joinville",
+        "estado": "SC",
+        "cep": "89201000"
+      }
+    },
+    {
+      "id": "2",
+      "nome": "Carlos Souza",
+      "telefone": "48999887766",
+      "email": "carlos@example.com"
+    },
+    {
+      "id": "3",
+      "nome": "Mariana Lima",
+      "telefone": "11987654321"
+    }
+  ],
+  "pets": [
+    {
+      "id": "1",
+      "nome": "Luna",
+      "especie": "Gato",
+      "tutorId": "1"
+    },
+    {
+      "id": "2",
+      "nome": "Thor",
+      "especie": "Cachorro",
+      "tutorId": "1"
+    },
+    {
+      "id": "3",
+      "nome": "Mel",
+      "especie": "Cachorro",
+      "tutorId": "1"
+    },
+    {
+      "id": "4",
+      "nome": "Rex",
+      "especie": "Cachorro",
+      "tutorId": "2"
+    },
+    {
+      "id": "5",
+      "nome": "Pipoca",
+      "especie": "Coelho",
+      "tutorId": "3"
+    }
+  ]
+}
